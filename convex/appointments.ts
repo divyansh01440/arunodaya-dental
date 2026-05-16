@@ -1,6 +1,7 @@
 import { query, mutation } from "./_generated/server";
 import { v } from "convex/values";
 import { requireAdmin } from "./auth";
+import type { Id } from "./_generated/dataModel";
 
 /** Build 30-minute time slots from a doctor's sessions */
 function generateSlots(sessions: { start: string; end: string }[], intervalMin = 30): string[] {
@@ -238,8 +239,8 @@ export const adminEdit = mutation({
 
     const patch = { ...args.patch };
     if (patch.doctorId && !patch.doctorName) {
-      const d = await ctx.db.get(patch.doctorId);
-      if (d) patch.doctorName = d.name;
+      const d = await ctx.db.get(patch.doctorId as Id<"doctors">);
+      if (d && "name" in d) patch.doctorName = d.name;
     }
 
     await ctx.db.patch(args.appointmentId, patch);
