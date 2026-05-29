@@ -27,7 +27,7 @@ const services = [
     description:
       "Our flagship service. Both our doctors are specialist endodontists. Single-sitting and multi-visit root canals using modern rotary endodontics for virtually painless treatment.",
     price: "₹5,000 (Anterior) – ₹8,000 (Posterior)",
-    image: "/photos/treatment-room.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780077663/root_cannel_spgexp.png",
     features: [
       "Single-sitting RCT available",
       "Latest rotary instruments",
@@ -43,7 +43,7 @@ const services = [
     description:
       "Comprehensive cosmetic transformation including veneers, laminates, and direct composite veneers. We start with a digital smile preview so you know exactly what to expect.",
     price: "₹5,000 per tooth (Veneer/Laminate)",
-    image: "/photos/consultation-1.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780077888/veneers.jpg_k8bmov.jpg",
     features: [
       "Porcelain & composite veneers",
       "Direct composite veneers",
@@ -59,7 +59,7 @@ const services = [
     description:
       "Permanent, natural-looking replacement for missing teeth using premium titanium implants. Includes sinus lift and bone grafting if required.",
     price: "₹25,000 (Single Implant)",
-    image: "/photos/treatment-room-2.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780078335/implant.jpg_jr2vty.jpg",
     features: [
       "Premium titanium implants",
       "Sinus lift: ₹15,000",
@@ -75,7 +75,7 @@ const services = [
     description:
       "Professional in-office bleaching for a noticeably brighter smile in a single visit, plus home bleaching kits for gradual whitening.",
     price: "₹8,000 (Home) / ₹10,000 (In-Office)",
-    image: "/photos/treatment-room-3.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780077082/bleaching.jpg_azu7zy.jpg",
     features: [
       "In-office bleaching",
       "Take-home kits available",
@@ -91,7 +91,7 @@ const services = [
     description:
       "Strong, natural-looking crowns and bridges in zirconia, PFM, or metal. Restore damaged, broken, or missing teeth with precise digital impressions.",
     price: "₹3,000 – ₹10,000 per tooth",
-    image: "/photos/consultation-2.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780078500/crown_and_bridges.jpg_ohjce9.jpg",
     features: [
       "Zirconia crown: ₹10,000",
       "PFM crown: ₹7,000",
@@ -107,7 +107,7 @@ const services = [
     description:
       "Tooth-coloured composite fillings, GIC, or amalgam — depending on what's best for each tooth. Quick, painless, and aesthetically pleasing.",
     price: "₹1,500 – ₹3,000 per tooth",
-    image: "/photos/treatment-room.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780078427/restorations.jpg_sgbeex.jpg",
     features: [
       "Composite (tooth-coloured): ₹3,000",
       "GIC restoration: ₹1,500",
@@ -123,7 +123,7 @@ const services = [
     description:
       "Complete orthodontic treatment with options ranging from traditional metal braces to clear invisible aligners.",
     price: "₹50,000 – ₹2,50,000",
-    image: "/photos/treatment-room-2.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/v1780078593/ortho.jpg_itpfux.jpg",
     features: [
       "Metal braces: ₹50,000",
       "Ceramic braces: ₹75,000",
@@ -139,7 +139,7 @@ const services = [
     description:
       "Gentle, child-friendly dental care including pulpectomy, fluoride treatments, and pit & fissure sealants for kids.",
     price: "₹1,500 – ₹5,000",
-    image: "/photos/consultation-1.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/v1780078546/pedeatric.jpg_z1oczj.jpg",
     features: [
       "Pulpectomy: ₹5,000",
       "Pit & fissure sealants: ₹1,500",
@@ -155,12 +155,11 @@ const services = [
     description:
       "On-site digital X-ray imaging for instant, accurate diagnosis with significantly reduced radiation exposure.",
     price: "₹500 (IOPA) / ₹1,000 (OPG)",
-    image: "/photos/treatment-room-3.jpg",
+    image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780078728/xray.jpg_wx3xcr.jpg",
     features: [
       "Instant digital images",
       "Reduced radiation",
       "IOPA: ₹500",
-      "OPG with plate: ₹1,000",
       "Digital records kept",
     ],
   },

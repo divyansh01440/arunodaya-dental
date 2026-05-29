@@ -69,7 +69,7 @@ export const DOCTORS_INFO = [
     bio:
       "Founder of Arunodaya Dental Clinic with 17 years of clinical experience. A specialist endodontist, " +
       "Dr. Prathmesh Rai is best known for delivering virtually painless root canal treatments and beautiful " +
-      "cosmetic smile transformations. He has been recognised by the Indian Dental Association (IDA) for his " +
+      "cosmetic smile transformations. " +
       "lectures and contributions to dental education.",
     hours: "Mon–Sat · 10:30 AM – 3:30 PM &nbsp;&amp;&nbsp; 5:30 PM – 8:30 PM",
   },
