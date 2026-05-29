@@ -154,7 +154,7 @@ const services = [
     title: "Digital Dental X-Ray",
     description:
       "On-site digital X-ray imaging for instant, accurate diagnosis with significantly reduced radiation exposure.",
-    price: "₹500 (IOPA) / ₹1,000 (OPG)",
+    price: "₹500 (IOPA) ",
     image: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780078728/xray.jpg_wx3xcr.jpg",
     features: [
       "Instant digital images",
