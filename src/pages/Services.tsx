@@ -170,7 +170,7 @@ const services = [
     description:
       "Preventive care is the foundation of oral health. Includes oral examination, scaling, and a personalised treatment plan.",
     price: "₹500 (General) / ₹1,000 (Specialist)",
-    image: "/photos/consultation-2.jpg",
+    image: "/photos/reception.jpg",
     features: [
       "General consultation: ₹500",
       "Specialist consultation: ₹1,000",

@@ -64,8 +64,8 @@ export const DOCTORS_INFO = [
     qualificationShort: "BDS, MDS",
     specialization: "Endodontist · Cosmetic Dentist",
     experience: 17,
-    consultationFee: 200,
-    photo: "/photos/doctor-prathmesh.jpg",
+    consultationFee: 500,
+    photo: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780084433/IMG_8454_meytrm.heic",
     bio:
       "Founder of Arunodaya Dental Clinic with 17 years of clinical experience. A specialist endodontist, " +
       "Dr. Prathmesh Rai is best known for delivering virtually painless root canal treatments and beautiful " +
@@ -80,8 +80,8 @@ export const DOCTORS_INFO = [
     qualificationShort: "BDS, MDS",
     specialization: "Endodontist · Cosmetic & Aesthetic Dentist · Dental Surgeon",
     experience: 18,
-    consultationFee: 200,
-    photo: "/photos/doctor-kalpana.jpg",
+    consultationFee: 500,
+    photo: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780084363/IMG_3712_doulqy.heic",
     bio:
       "An IDA-member endodontist with 18 years of expertise, Dr. Kalpana Sharma Rai previously served on " +
       "the faculty of Modern Dental College, Indore (2008–11). Specialising in conservative dentistry, " +

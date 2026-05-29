@@ -145,7 +145,7 @@ const TestimonialsPage = () => {
               </div>
 
               <a
-                href="https://g.page/r/dental-square-jabalpur/review"
+                href="https://www.google.com/maps/place/Arunodaya+Dental+Clinic/@23.1584693,79.9278784,1072m/data=!3m1!1e3!4m8!3m7!1s0x3981ae061079de5d:0x3b29742c45d2403b!8m2!3d23.159292!4d79.929748!9m1!1b1!16s%2Fg%2F11b_2sr3zh!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white rounded-xl font-semibold hover:bg-primary-dark transition-colors"
