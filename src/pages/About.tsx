@@ -175,8 +175,8 @@ const AboutPage = () => {
                     <div className="flex items-center gap-2">
                       <Award className="w-5 h-5 text-accent" />
                       <div>
-                        <div className="font-heading font-bold text-foreground">IDA</div>
-                        <div className="text-xs text-muted-foreground">Recognised</div>
+                        <div className="font-heading font-bold text-foreground">Sir</div>
+                        <div className="text-xs text-muted-foreground"></div>
                       </div>
                     </div>
                   </div>
@@ -232,7 +232,7 @@ const AboutPage = () => {
                 >
                   <div className="rounded-3xl overflow-hidden aspect-[3/4] shadow-lg">
                     <img
-                      src="/photos/doctor-kalpana-portrait.jpg"
+                      src="https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780084363/IMG_3712_doulqy.heic"
                       alt="Dr. Kalpana Sharma Rai"
                       className="w-full h-full object-cover"
                     />
@@ -241,8 +241,8 @@ const AboutPage = () => {
                     <div className="flex items-center gap-2">
                       <Heart className="w-5 h-5 text-accent" />
                       <div>
-                        <div className="font-heading font-bold text-foreground">IDA</div>
-                        <div className="text-xs text-muted-foreground">Member</div>
+                        <div className="font-heading font-bold text-foreground">Mam</div>
+                        <div className="text-xs text-muted-foreground"></div>
                       </div>
                     </div>
                   </div>
