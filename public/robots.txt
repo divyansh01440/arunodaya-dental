@@ -12,3 +12,4 @@ Allow: /
 
 User-agent: *
 Allow: /
+Sitemap: https://www.arunodayadentalclinic.com/sitemap.xml
