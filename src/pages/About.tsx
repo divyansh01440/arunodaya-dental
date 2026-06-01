@@ -166,7 +166,7 @@ const AboutPage = () => {
                 >
                   <div className="rounded-3xl overflow-hidden aspect-[3/4] shadow-lg">
                     <img
-                      src="/photos/doctor-prathmesh-desk.jpg"
+                      src="https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780134027/416c78df-b4d3-4881-8a26-df1831564553_yvq45z.png"
                       alt="Dr. Prathmesh Rai"
                       className="w-full h-full object-cover"
                     />
