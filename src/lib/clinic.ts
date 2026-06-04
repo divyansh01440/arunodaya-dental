@@ -67,10 +67,13 @@ export const DOCTORS_INFO = [
     consultationFee: 500,
     photo: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780134027/416c78df-b4d3-4881-8a26-df1831564553_yvq45z.png",
     bio:
-      "Founder of Arunodaya Dental Clinic with 17 years of clinical experience. A specialist endodontist, " +
-      "Dr. Prathmesh Rai is best known for delivering virtually painless root canal treatments and beautiful " +
-      "cosmetic smile transformations. " +
-      "lectures and contributions to dental education.",
+      "Dr. Prathmesh Rai — A passionate dental surgeon with 17+ years of clinical experience. " +
+      "Specializing in Root Canal Science and advanced restorative care. " +
+      "His mission is to combine cutting-edge clinical expertise with a gentle, personalized touch. " +
+      "At Arunodaya Dental Clinic, we understand that a visit to the dentist can feel daunting."+
+      "That’s why we’ve designed our practice to be a warm, stress-free space for patients of all ages."+
+      "From precise, durable treatments to routine family wellness, we are here to help."+
+      "Our goal is to help you achieve a healthy, confident smile that lasts a lifetime.",
     hours: "Mon–Sat · 10:30 AM – 3:30 PM &nbsp;&amp;&nbsp; 5:30 PM – 8:30 PM",
   },
   {
@@ -83,9 +86,13 @@ export const DOCTORS_INFO = [
     consultationFee: 500,
     photo: "https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780133985/e7ec802a-c9df-4f4c-beb7-3d5506a03da7_hjgkxk.png",
     bio:
-      "An IDA-member endodontist with 18 years of expertise, Dr. Kalpana Sharma Rai previously served on " +
-      "the faculty of Modern Dental College, Indore (2008–11). Specialising in conservative dentistry, " +
-      "endodontics, and aesthetic procedures, she is known for her gentle, patient-first approach.",
+      "Dr. Kalpana Sharma — A distinguished dentist with 18 years of clinical experience." +
+      "Dedicated to providing exceptional oral healthcare and advanced restorative treatments. " +
+      "Combining decades of hands-on expertise with a deep understanding of modern dental material science."+
+      "She delivers precise, patient-centered care built on trust, clinical excellence, and long-term results"+
+      "An accomplished family dentist providing multi-generational oral healthcare."+
+      "Dedicated to promoting long-term oral wellness through personalized education."+
+      "She creates a warm, comforting clinical environment for every patient.",
     hours: "Mon–Sat · 10:30 AM – 3:30 PM (Morning only)",
   },
 ];
