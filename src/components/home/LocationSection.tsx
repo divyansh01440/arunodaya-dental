@@ -41,7 +41,7 @@ const LocationSection = () => {
             </div>
             <div className="rounded-2xl overflow-hidden shadow-md aspect-[16/9]">
               <img
-                src="https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780134778/Copilot_20260530_152239_koqz7d.png"
+                src="https://res.cloudinary.com/dwenbr9ny/image/upload/q_auto/f_auto/v1780814901/Copilot_20260607_121756_vv0dkv.png"
                 alt="Arunodaya Dental Clinic exterior in Napier Town, Jabalpur"
                 className="w-full h-full object-cover"
               />
